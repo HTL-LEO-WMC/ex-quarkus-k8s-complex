@@ -7,10 +7,9 @@
     "types": []
   },
   "include": [
-    "**/*.ts"
+    "src/**/*.ts"
   ],
   "exclude": [
-    "**/*.spec.ts",
-    "node_modules"
+    "src/**/*.spec.ts"
   ]
 }
